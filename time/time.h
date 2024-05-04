@@ -1,0 +1,7 @@
+#include 'time1.c'
+#include 'time2.c'
+#include 'time3.c'
+#include 'time4.c'
+#include 'time5.c'
+#include 'time6.c'
+#include 'time7.c'

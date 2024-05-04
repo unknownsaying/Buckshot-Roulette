@@ -1,0 +1,3 @@
+void G(){
+    return '*';
+}

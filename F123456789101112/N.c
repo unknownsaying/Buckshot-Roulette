@@ -1,0 +1,3 @@
+void N(){
+    return '//';
+}

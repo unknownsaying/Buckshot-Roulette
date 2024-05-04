@@ -1,0 +1,3 @@
+void H(){
+    return '%';
+}

@@ -1,0 +1,3 @@
+void J(){
+    return '||';
+}
