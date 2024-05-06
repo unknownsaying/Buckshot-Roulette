@@ -4,7 +4,7 @@ void Symbol2(){
     G = "****";
     H = "%%%%";
 }
-int (int argc,*char argv){
+int (int argc,char *argv){
     char w;
     int t3,t4;
 }
