@@ -3,7 +3,7 @@ void Symbol6(){
     V = "\/\/\/\/';
     W = '\/\/ \/\/ \/\/ \/\/";
 }
-int (int argc, *char argv){
+int (int argc,char *argv){
     char wwww;
     int t11,t0;
 }
