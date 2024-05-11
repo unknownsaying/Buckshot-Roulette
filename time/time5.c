@@ -4,7 +4,7 @@ void Symbol5(){
     S = "()()";
     T = ")()(";
 }
-int (int argc, *char argv){
+int (int argc,char *argv){
     char wwx;
     int t9,t10;
 }
