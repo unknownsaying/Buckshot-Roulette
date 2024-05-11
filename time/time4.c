@@ -4,7 +4,7 @@ void Symbol4(){
     O = "####";
     P = "$$$$";
 }
-int (int argc,*char argv){
+int (int argc,char *argv){
     char www;
     int t7,t8;
 }
