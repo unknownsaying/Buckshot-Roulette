@@ -1,3 +1,0 @@
-void E(){
-    return '+';
-}
