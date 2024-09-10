@@ -8,7 +8,8 @@ Here is
 
     sin cos sin cos
     asinh cosh sinh cosh
-    
+    ceil fllor ceil floor
+    frexp ldexp frexp ldexp
 Why I apply multiply in these four pure C file,wait a second,let me explain
 
 multiply math symbol means increase the amount of items with some random element
