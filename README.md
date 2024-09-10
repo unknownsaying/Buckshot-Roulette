@@ -26,5 +26,6 @@ this is the source code about Buckshot Roulette
 
 Maybe U won't believe mightly
 
+Obivously, there is no 2 letter Y and Z
 
     
