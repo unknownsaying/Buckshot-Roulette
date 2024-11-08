@@ -22,7 +22,7 @@ Besides these 16 letters,only remains 10 letters:
     asin acos asin acos
     exp  log  exp  log
 
-this is the source code about Buckshot Roulette
+this is the source code of Buckshot Roulette
 
 Maybe U won't believe mightly
 
