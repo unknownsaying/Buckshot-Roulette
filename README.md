@@ -7,7 +7,7 @@ Here is
     U* V* W* X* in time6.c file
 
     sin cos sin cos
-    asinh cosh sinh cosh
+    sinh cosh sinh cosh
     ceil fllor ceil floor
     frexp ldexp frexp ldexp
 Why I apply multiply in these four pure C file,wait a second,let me explain
