@@ -8,7 +8,7 @@ Here is
 
     sin cos sin cos
     sinh cosh sinh cosh
-    ceil fllor ceil floor
+    ceil floor ceil floor
     frexp ldexp frexp ldexp
 Why I apply multiply in these four pure C file,wait a second,let me explain
 
